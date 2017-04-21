@@ -57,7 +57,10 @@ Este repositório tem o objetivo de organizar alguns informações sobre a const
 
 ### Forum de discussão no Brasil:
 
-* [Grupo de email](https://groups.google.com/forum/#!forum/reprapbr)
+* [Grupo de email - RepRapBR](https://groups.google.com/forum/#!forum/reprapbr)
+
+### Gerenciamento via Wi-Fi
+* [Tutorial controlando a impressão wi-fi com OctoPrint](https://groups.google.com/forum/#!topic/reprapbr/eJrmM_aRh9s)
 
 ### Apresentações
 * [Campus Party 7 (São Paulo - 2014)](http://www.youtube.com/watch?v=LAo2wK1KsX8)
