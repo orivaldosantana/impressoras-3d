@@ -54,3 +54,11 @@ Este repositório tem o objetivo de organizar alguns informações sobre a const
 * Prusa Mendel: http://www.3dmachine.com.br/kits.html;
 * Prusa Air: http://www.sethi3d.com.br/categoria/impressora-3d.html;
 * Modelo Comercial (Baseado na Prusa): http://metamaquina.com.br/;
+
+### Forum de discussão no Brasil:
+
+* [Grupo de email](https://groups.google.com/forum/#!forum/reprapbr)
+
+### Apresentações
+* [Campus Party 7 (São Paulo - 2014)](http://www.youtube.com/watch?v=LAo2wK1KsX8)
+
