@@ -5,3 +5,6 @@
 
 ## Fotos 
 * [Prusa Mendel](https://plus.google.com/u/0/photos/+OrivaldoSantanaJr/albums/5871204288076817873)
+
+## Referências 
+* Impressora Prusa Mendel, http://reprap.org/wiki/Prusa_Mendel/pt 
