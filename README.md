@@ -9,7 +9,24 @@ Este repositório tem o objetivo de organizar alguns informações sobre a const
 * Frames i3 e outras
   * [Imprimindo 3D](http://imprimindo3d.lojaintegrada.com.br) 
 * Guias lineares
-  * [Só Bronze - Recife](http://www.sobronze.com.br/)
+  * [Só Bronze - Recife](http://www.sobronze.com.br/) 
+  * [Compal](http://www.compal.com.br/)
+  * [Aço Potiguar](http://acopotiguar.com.br/)
+* Parafusos 
+  * CENTPAR - Central de Parafusos 
+  * [Fabrica de Produtos](https://www.facebook.com/fabricadeprodutos/) 
+* Motores
+  * [Nema 17](https://pt.aliexpress.com/item/Best-Excellent-NEMA17-3D-printers-stepper-motor-CNC-stepper-motor-78-Oz-in-48mm-stepping-motor/1590567905.html)
+* Arduino Mega R3  
+* RAMPS 1.4 (eBay)  
+* 5x Drivers A4988 
+* Correias GT2 2m + 2x polias 
+* 1x Hotend (p/ 1.75 mm) 
+* 3x switches / endstops
+* 2x Rolamentos 608zz 
+* 1x Fonte industrial 350W / 12V / 30A 
+* 1x Mesa aquecida Mk2a
+* 2x Acoplador eixo Z motor com barra roscada 
 
 ## Softwares utilizados neste impressora 
 
@@ -54,6 +71,9 @@ Este repositório tem o objetivo de organizar alguns informações sobre a const
 * Prusa Mendel: http://www.3dmachine.com.br/kits.html;
 * Prusa Air: http://www.sethi3d.com.br/categoria/impressora-3d.html;
 * Modelo Comercial (Baseado na Prusa): http://metamaquina.com.br/;
+
+### Fornecedores no Brasil 
+* [Sethi 3D](http://www.sethi3d.com.br/hotend-bico-inox-sethi3d)
 
 ### Forum de discussão no Brasil:
 
