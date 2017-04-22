@@ -27,6 +27,7 @@ Este repositório tem o objetivo de organizar alguns informações sobre a const
 * 1x Fonte industrial 350W / 12V / 30A 
 * 1x Mesa aquecida Mk2a
 * 2x Acoplador eixo Z motor com barra roscada 
+* [Sensor de Auto-Nivelamento](http://www.geeetech.com/wiki/index.php/3DTouch_Auto_Leveling_Sensor)
 
 ## Softwares utilizados neste impressora 
 
@@ -51,8 +52,10 @@ Este repositório tem o objetivo de organizar alguns informações sobre a const
 ### Modelos de Impressoras
 * Impressora Prusa Mendel, http://reprap.org/wiki/Prusa_Mendel/pt 
 
-### Partes 
-* Sensor de Auto-Nivelamento, http://www.geeetech.com/wiki/index.php/3DTouch_Auto_Leveling_Sensor 
+### Tutorial de Auto-Nivelamento da Mesa 
+* [3D Printing](http://www.3dprinting.com.br/dicas-e-tutoriais/tutorial-de-implementacao-de-bed-auto-leveling-bal/)
+* [Em pdf](https://08628075991197910836.googlegroups.com/attach/c67e2a0598b0a194/TUTORIAL%20DE%20IMPLEMENTA%C3%87%C3%83O%20DE%20BED%20AUTO%20LEVELING.pdf?part=0.1&vt=ANaJVrF4SgNgVcomuoIsErOoiZ2uviPCncn9K82lKFVaIng1bmcfyw80gyWCuXN4jlvmyBBQEVfyjWL3g3Rpshhh90ouAPD6617ZUSJRR7YA8a-iOdS9BPo)
+
 
 ### Guias de montagem 
 
