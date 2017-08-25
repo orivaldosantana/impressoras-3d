@@ -15,3 +15,8 @@ Movimentação para origem.
 #define HOMING_FEEDRATE {40*60, 40*60, 4*60, 0}  // set the homing speeds (mm/min)
 
 ```
+## Passos por milimetros
+
+```
+#define DEFAULT_AXIS_STEPS_PER_UNIT   {80,80,2560.0,6.3}
+```
