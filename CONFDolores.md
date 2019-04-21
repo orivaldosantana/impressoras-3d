@@ -10,17 +10,30 @@
 
 ## Direção de movimento dos eixos
 ```
-#define INVERT_X_DIR true    
-#define INVERT_Y_DIR false     
-#define INVERT_Z_DIR true   
+ INVERT_X_DIR true    
+ INVERT_Y_DIR false     
+ INVERT_Z_DIR true   
 ```
 
-## Velocidade 
+## Homing 
+```
+X_MIN_ENDSTOP_INVERTING true 
+Y_MIN_ENDSTOP_INVERTING true
+Z_MIN_ENDSTOP_INVERTING true 
+```
+
+## Motion 
 
 Movimentação para origem. 
  
 ``` 
-#define HOMING_FEEDRATE {40*60, 40*60, 4*60, 0}  // set the homing speeds (mm/min)
+DEFAULT_AXIS_STEPS_PER_UNIT { 80, 80, 2560, 100}
+DEFAULT_MAX_FEEDRATE { 300, 300, 2.5, 25 }
+DEFAULT_MAX_ACCELERATION { 300, 300, 100, 100 }
+DEFAULT_ACCELERATION 200 
+DEFAULT_RETRACT_ACCELERATION 200 
+DEFAULT_TRAVEL_ACCELERATION 200 
+
 
 ```
 ## Passos por milimetros
