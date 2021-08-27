@@ -36,8 +36,4 @@ DEFAULT_TRAVEL_ACCELERATION 200
 
 
 ```
-## Passos por milimetros
 
-```
-#define DEFAULT_AXIS_STEPS_PER_UNIT   {80,80,2560.0,6.3}
-```
