@@ -33,7 +33,15 @@ DEFAULT_MAX_ACCELERATION { 300, 300, 100, 100 }
 DEFAULT_ACCELERATION 200 
 DEFAULT_RETRACT_ACCELERATION 200 
 DEFAULT_TRAVEL_ACCELERATION 200 
-
-
 ```
+
+## FULL GRAPHIC Smart Controller
+```
+//
+// RepRapDiscount FULL GRAPHIC Smart Controller
+// https://reprap.org/wiki/RepRapDiscount_Full_Graphic_Smart_Controller
+//
+#define REPRAP_DISCOUNT_FULL_GRAPHIC_SMART_CONTROLLER
+```
+
 
