@@ -1,12 +1,9 @@
 # Atualizações da Impressora 3D Florinda 
 
 ## Instalação do Marlin 
+Baixar o firmware estável LTS (2.0.9.7) na [página oficial do Marlin](https://marlinfw.org/meta/download/) e fazer os ajustes nos arquivos de configuração. 
 
-Instalação do Display 12864 
-* Originalmente usado para RAMPS
-* Os conectores estão desalinhados e precisam inverter a conexão, [ver este vídeo.](https://www.youtube.com/watch?v=vXFx7YDWYYI) 
-
-## Paramteros Ajustados 
+### Paramteros Ajustados 
 
 ```
 // Choose the name from boards.h that matches your setup
@@ -172,9 +169,13 @@ Instalação do Display 12864
 #define ESP3D_WIFISUPPORT // ESP3D Library WiFi management (https://github.com/luc-github/ESP3DLib)
 
 ```
+## Instalação do Display 12864 
+Ocorreu um ploblema na primeira ao instalar o Display genérico 12864 originalmente usado para RAMPS. Os conectores estão desalinhados e precisamos inverter a conexão, [ver este vídeo.](https://www.youtube.com/watch?v=vXFx7YDWYYI) 
+
 
 ## Referências 
 
+* [Download Marlin](https://marlinfw.org/meta/download/)
 * [Solved the problem: MKS motherboards are not compatable with non-MKS LCD2004/12864](https://www.youtube.com/watch?v=vXFx7YDWYYI) 
 * [MKS TinyBee firmware configuration and connection router tutorial](https://www.youtube.com/watch?v=6KCa3XEugMY)
 * [How To Install PlatformIO (ESP32 + Arduino series)](https://www.youtube.com/watch?v=5edPOlQQKmo) 
